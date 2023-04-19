@@ -16,6 +16,10 @@ public class main {
     public static void main(String[] args) throws MalformedURLException {
 
 
+
+
+
+
         DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
         desiredCapabilities.setCapability("platformName","Android");
         desiredCapabilities.setCapability("udid","emulator-5554");
